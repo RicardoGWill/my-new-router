@@ -1,3 +1,8 @@
+// Note that "npm install --save react-router-dom" was done on the command line
+// in the project, so the "react-router-dom" dependency was created in
+// "package.json".
+// I also changed "index.js" substantially.
+
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
